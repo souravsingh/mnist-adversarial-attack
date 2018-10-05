@@ -10,3 +10,5 @@ https://colab.research.google.com/github/souravsingh/mnist-adversarial-attack/bl
 
 The link contains the contents present in the notebook.Make sure to change your runtime to GPU so as to ensure that training is faster.
 
+The link as well as the notebook shown in the repository uses Keras library. There will be another notebook which will make use of PyTorch really soon.
+
